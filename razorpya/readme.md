@@ -59,3 +59,6 @@ def razorpayHome(request):
 
     return render(request,'razorpay/index.html')
 ```
+
+
+Aftre successful payment you can see the details in your dashboard whic is prodvided by Razorpay.
